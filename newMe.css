@@ -1,0 +1,85 @@
+.body {
+    background-color:  rgb(233, 161, 200);
+  }
+.bg{
+  background: url("background.bg");
+  opacity: 20;
+}
+.H1{
+  color:#f2f2f2;  
+  font-family: sans-serif;
+    text-align: center;
+}
+.topnav {
+    overflow: hidden;
+    background-color: rgb(233, 161, 200);
+  }
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .topnav a:hover {
+    background-color: #dda0dd;
+    color: whitesmoke;
+  }
+  .lofi{
+    background: url("newpink");
+    background-repeat:no-repeat;
+    }
+
+
+  .skyImg {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 0
+  }
+ .H2{
+  color:#ffffff;
+ }
+  
+
+  .lilly{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    column-gap: 0px;
+   
+  }
+  .lillies{
+    text-align: left;
+    background:  #dda0dd;
+    width: 300px;
+    padding-right: 0;
+    padding-left: 0;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-bottom-left-radius: 80px 80px;
+    border-bottom-right-radius: 80px 80px;
+    border-top-left-radius: 80px 80px;
+    border-top-right-radius: 80px 80px;
+  }
+  .ca{
+    text-align: right;
+    background:  #dda0dd;;
+    max-width: 300px;
+    padding-right: 0;
+    padding-left: 0;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-bottom-left-radius: 80px 80px;
+    border-bottom-right-radius: 80px 80px;
+    border-top-left-radius: 80px 80px;
+    border-top-right-radius: 80px 80px;
+  }
+
+  .china{
+    display:flex;
+    flex-direction: row;
+    justify-content: right;
+    column-gap: 0px;
+  }

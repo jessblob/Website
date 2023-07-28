@@ -1,0 +1,28 @@
+.bd{
+    background-color: rgb(222, 195, 161) ;
+}
+.likes{
+    display:flex;
+    flex-direction:row;
+    column-width: 100px;
+}
+.hobbies{
+    padding-top:0;
+    padding-bottom:0;
+    margin: 5%;
+    border-width: 3px;
+    background: rgb(245, 235, 235);
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.dog{
+    text-align: center;
+}
+
+.m{
+    display: flex;
+    justify-content: center;
+    flex-direction: row
+}
